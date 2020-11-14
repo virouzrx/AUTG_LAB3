@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\AUTG_Zadanie3.exe.config
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\AUTG_Zadanie3.exe
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\AUTG_Zadanie3.pdb
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Data.dll
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.dll
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.xml
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Data.xml
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\obj\Debug\AUTG_Zadanie3.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\obj\Debug\AUTG_Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\obj\Debug\AUTG_Zadanie3.csproj.CopyComplete
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\obj\Debug\AUTG_Zadanie3.exe
+C:\Users\ASUS\source\repos\AUTG_Zadanie3\AUTG_Zadanie3\obj\Debug\AUTG_Zadanie3.pdb
